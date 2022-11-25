@@ -408,7 +408,7 @@ Para la tarjeta de circuito mostrada en la figura determine la resistencia entre
 
 5.Video
 
-dhjtrjtyjyt.com
+https://youtu.be/xPGKDiCXXgc
 
 6.-CONCLUSIONES
 
