@@ -22,7 +22,9 @@ PRINCIPIO DE CIRCUITOS ELÉCTRICOS- FLOYD CAPITULOS 3 Y 4 LEY DE OHM ENERGÍA Y 
 
 FECHA:
 
-26 de mayo del 2022   PRINCIPIOS DE CIRCUITOS ELECTRICOS FLOYD
+26 de noviembre del 2022  
+
+PRINCIPIOS DE CIRCUITOS ELECTRICOS FLOYD
 
 TEMA: Principios de circuitos eléctricos Floyd del capítulo cinco y seis con ejercicios pares.
 
